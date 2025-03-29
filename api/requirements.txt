@@ -1,4 +1,4 @@
-flask==2.3.2
-requests==2.31.0
-flask-limiter==2.8.2
+flask==2.0.3
+requests==2.26.0
+flask-limiter==2.4.0
 ipaddress==1.0.23
